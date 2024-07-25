@@ -5,12 +5,16 @@
       "url": "/"
     },
     {
+      "name": "Roadmap",
+      "url": "/elements"
+    },
+    {
       "name": "About",
       "url": "/about"
     },
     {
-      "name": "Elements",
-      "url": "/elements"
+      "name": "Blog",
+      "url": "/blog"
     },
     {
       "name": "Pages",
