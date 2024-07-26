@@ -1,10 +1,10 @@
 ---
 enable: true
-title: "Ready to build your next project with Astro?"
-image: "/images/call-to-action.png"
-description: "Experience the future of web development with Astroplate and Astro. Build lightning-fast static sites with ease and flexibility."
+title: "Bạn muốn đọc  thêm các bài viết liên quan?"
+image: "/images/how-to-write-a-blog-post.jpeg"
+description: "Những bài viết chia sẻ liên quan đến ngành Web vềframework Laravel, Hosting, quá trình hình thành và phát triển của Website."
 button:
   enable: true
-  label: "Get Started Now"
+  label: "Đọc thêm"
   link: "https://www.facebook.com/ahistoryofwebdevelopment"
 ---

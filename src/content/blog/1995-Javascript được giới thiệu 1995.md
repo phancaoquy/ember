@@ -1,12 +1,12 @@
 ---
-title: "How to build an Application with modern Technology"
+title: "1995 Javascript được giới thiệu 1995"
 meta_title: ""
 description: "this is meta description"
 date: 2022-04-04T05:00:00Z
 image: "/images/image-placeholder.png"
-categories: ["Architecture"]
+categories: ["Software"]
 author: "John Doe"
-tags: ["silicon", "technology"]
+tags: ["software", "tailwind"]
 draft: false
 ---
 

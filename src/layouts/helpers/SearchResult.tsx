@@ -11,7 +11,6 @@ export interface ISearchItem {
     categories?: string[];
     tags?: string[];
   };
-  content: string;
 }
 
 export interface ISearchGroup {
@@ -25,7 +24,6 @@ export interface ISearchGroup {
       categories?: string[];
       tags?: string[];
     };
-    content: string;
   }[];
 }
 
@@ -51,7 +49,6 @@ const SearchResult = ({
               {
                 frontmatter: { ...item.frontmatter },
                 slug: item.slug,
-                content: item.content,
               },
             ],
           });
@@ -59,7 +56,6 @@ const SearchResult = ({
           groupItems[groupIndex].groupItems.push({
             frontmatter: { ...item.frontmatter },
             slug: item.slug,
-            content: item.content,
           });
         }
 
@@ -94,35 +90,6 @@ const SearchResult = ({
       ) : (
         part
       ),
-    );
-  };
-
-  // match content
-  const matchContent = (content: string, substring: string) => {
-    const plainContent = plainify(content);
-    const position = plainContent
-      .toLowerCase()
-      .indexOf(substring.toLowerCase());
-
-    // Find the start of the word containing the substring
-    let wordStart = position;
-    while (wordStart > 0 && plainContent[wordStart - 1] !== " ") {
-      wordStart--;
-    }
-
-    const matches = plainContent.substring(
-      wordStart,
-      substring.length + position,
-    );
-    const matchesAfter = plainContent.substring(
-      substring.length + position,
-      substring.length + position + 80,
-    );
-    return (
-      <>
-        {matchMarker(matches, substring)}
-        {matchesAfter}
-      </>
     );
   };
 
@@ -164,11 +131,6 @@ const SearchResult = ({
                             item.frontmatter.description,
                             searchString,
                           )}
-                        </p>
-                      )}
-                      {item.content && (
-                        <p className="search-result-item-content">
-                          {matchContent(item.content, searchString)}
                         </p>
                       )}
                       <div className="search-result-item-taxonomies">
