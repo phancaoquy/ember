@@ -32,7 +32,7 @@ features:
     content: "
 PHP được hình thành vào mùa thu năm 1994 bởi Rasmus Lerdorf. Các phiên bản đầu tiên chưa được phát hành đã được sử dụng trên trang chủ của anh ấy để theo dõi xem ai đang xem hồ sơ cá nhân của anh ấy. Phiên bản đầu tiên được người khác sử dụng đã có vào khoảng đầu năm 1995."
     button:
-      enable: false
+      enable: enable
       label: ""
       link: "https://ember-blush-two.vercel.app/blog/1998-2003-sự-nổi-lên-của-php-và-phổ-biến-của-wordpress"
 
