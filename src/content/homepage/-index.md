@@ -1,7 +1,7 @@
 ---
 # Banner
 banner:
-  title: "1989 - Website đầu tiên trên CERN -2"
+  title: "1989 - Website đầu tiên trên CERN"
   content: "World Wide Web (www) được phát minh vào năm 1989, bởi nhà khoa học máy tính Tim Berners-Lee khi đang làm việc tại CERN. Web ban đầu được hình thành và phát triển với mục đích đáp ứng nhu cầu chia sẻ thông tin giữa các nhà khoa học ở các trường đại học và viện nghiên cứu trên toàn thế giới."
   image: "/images/banner.png"
   button:
