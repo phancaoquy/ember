@@ -6,5 +6,5 @@ description: "Những bài viết chia sẻ liên quan đến ngành Web vềfra
 button:
   enable: true
   label: "Đọc thêm"
-  link: "https://www.facebook.com/ahistoryofwebdevelopment"
+  link: "https://ember-blush-two.vercel.app/blog"
 ---

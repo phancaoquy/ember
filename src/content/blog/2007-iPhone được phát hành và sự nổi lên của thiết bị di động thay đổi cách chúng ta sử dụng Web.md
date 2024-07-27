@@ -2,26 +2,48 @@
 title: "2007 - iPhone được phát hành và sự nổi lên của thiết bị di động thay đổi cách chúng ta sử dụng Web"
 meta_title: ""
 description: "Website đầu tiên "
-date: 2024-07-26T05:00:00Z
-image: "/images/a1.png"
-categories: ["Website", "Lịch sử"]
+date: 2024-07-27T05:00:00Z
+image: "/images/f1.png"
+categories: ["Website", "Design"]
 author: "Phan Cao Quý"
-tags: ["Website", "Website đầu tiên"]
+tags: ["Website", "Mobile device", "iPhone"]
 draft: false
 ---
 
-![A mushroom-head robot](/images/a2.png "Website đầu tiên")
-World Wide Web (www) được phát minh vào năm 1989, bởi nhà khoa học máy tính Tim Berners-Lee khi đang làm việc tại CERN. Web ban đầu được hình thành và phát triển với mục đích đáp ứng nhu cầu chia sẻ thông tin giữa các nhà khoa học ở các trường đại học và viện nghiên cứu trên toàn thế giới.
+Chiếc iPhone đầu tiên được thương mại hóa vào năm 2008 và vào năm 2009, chỉ có 0,7% người dùng xem trang web trên thiết bị di động. Gần một thập kỷ sau, vào năm 2018, 52,2% người dân cho biết đã xem trang web từ thiết bị di động của họ.
 
-## Website đầu tiên được tạo ra như thế nào?
+## CUỘC SỐNG TRƯỚC IPHONE
 
-![](/images/a3.png "Một bản sao của máy NeXT được Tim Berners-Lee sử dụng vào năm 1990 để phát triển và chạy máy chủ WWW")
-Khác với Website ở hiện tại sau hơn 30 phát triển với những nội dung đa dạng, giao diện đồ hoạ cùng nhiều animation độc đáo nhằm tăng trải nghiệm người dung. Nội dung của trang Web đầu tiên chỉ là giao diện văn bản được viết bởi ngôn ngữ HTML.
+iPhone, được Apple giới thiệu vào năm 2007, được coi là một trong những đổi mới công nghệ mang tính đột phá và mang tính thay đổi nhất của thế kỷ 21. Tác động của nó đối với cách chúng ta sống, giao tiếp, làm việc và vui chơi không thể bị phóng đại.
 
-Trang web đầu tiên tại CERN và trên thế giới – được dành riêng cho dự án World Wide Web và được lưu trữ trên máy tính NeXT của Berners-Lee. Vào năm 2013, CERN đã khởi động một dự án khôi phục trang web đầu tiên này: info.cern.ch.
-info.cern.ch là tên miền của trang web và máy chủ Web đầu tiên trên thế giới, chạy trên máy tính NeXT tại CERN. Địa chỉ trang Web đầu tiên là http://info.cern.ch/hypertext/WWW/TheProject.html chứa các liên kết đến thông tin về chính dự án WWW, bao gồm mô tả siêu văn bản (Hypertext), chi tiết kỹ thuật để tạo máy chủ Web và các liên kết tới các máy chủ Web khác.
+Trước khi iPhone ra đời, bối cảnh điện thoại di động rất khác biệt. Những thiết bị này chủ yếu là công cụ để liên lạc bằng giọng nói, nhắn tin văn bản đơn giản và tốt nhất là duyệt web cơ bản. Ý tưởng về một thiết bị cầm tay có thể kết hợp liền mạch giữa điện thoại, máy nghe nhạc, máy ảnh và máy tính là một giấc mơ tương lai.
 
-Vào ngày 30 tháng 4 năm 1993, CERN đưa phần mềm World Wide Web vào phạm vi công cộng. Sau đó, CERN đã đưa ra bản phát hành có sẵn với giấy phép mở, một cách chắc chắn hơn để tối đa hóa sự phổ biến của nó. Những hành động này đã giúp web phát triển.
+Trong thời kỳ tiền iPhone, các thiết bị di động thường cồng kềnh và cung cấp chức năng hạn chế. Mọi người mang theo vô số thiết bị để đáp ứng các nhu cầu khác nhau của mình: điện thoại nắp gập để gọi điện, máy ảnh kỹ thuật số để chụp ảnh, máy nghe nhạc MP3 để nghe nhạc và trợ lý kỹ thuật số cá nhân (PDA) để làm việc cơ bản. iPhone là kẻ thay đổi cuộc chơi, đưa tất cả những chức năng này vào một thiết bị duy nhất, đẹp mắt.
+
+Nó tích hợp liền mạch các cuộc gọi điện thoại, nhắn tin văn bản, email, duyệt web và một loạt ứng dụng ngày càng mở rộng trong một gói được thiết kế đẹp mắt. Sự hội tụ của công nghệ này không chỉ đơn giản hóa cuộc sống của chúng ta mà còn mở ra cánh cửa cho vô số khả năng mới cho phát triển của công nghệ phần cứng và phần mềm.
+
+## Thiết kế web đáp ứng là gì?
+
+![A mushroom-head robot](/images/f2.jpg "Website đầu tiên")
+Thiết kế web đáp ứng (RWD) là một phương pháp thiết kế web nhằm mục đích tạo ra các trang web tự động điều chỉnh bố cục và nội dung để phù hợp với nhiều thiết bị và kích thước màn hình khác nhau. Các kích thước, độ phân giải và hướng màn hình khác nhau Công ty thiết kế web đáp ứng đề cập đến việc thiết kế một trang web có thể thích ứng với các kích thước màn hình và thiết bị khác nhau. Điều này đảm bảo trang web của bạn trông đẹp và hoạt động phù hợp trên máy tính để bàn, máy tính xách tay, máy tính bảng và điện thoại thông minh. Nó trông đẹp mắt và hoạt động chính xác, cho dù được truy cập trên máy tính để bàn, điện thoại thông minh, máy tính bảng hay bất kỳ thiết bị nào khác.
+
+## Tầm quan trọng của trang web thân thiện với thiết bị di động
+
+### Tăng cường sử dụng điện thoại di động
+
+Sự phổ biến của thiết bị di động là không thể phủ nhận. Theo Statista, tính đến năm 2021, có khoảng 3,6 tỷ người dùng điện thoại thông minh trên toàn thế giới. Con số này dự kiến sẽ tiếp tục tăng trong những năm tới. Khi ngày càng có nhiều người dựa vào việc sử dụng thiết bị di động để duyệt internet ngày càng nhiều, việc phát triển ứng dụng di động đã trở nên cần thiết. Dành cho các doanh nghiệp và chủ sở hữu trang web để phục vụ đối tượng ngày càng mở rộng này.
+
+### Cải thiện trải nghiệm người dùng
+
+Người dùng thiết bị di động có nhu cầu và mong đợi khác so với người dùng máy tính để bàn. Họ muốn các trang web tải nhanh, dễ điều hướng bằng cử chỉ chạm và cung cấp nội dung dễ đọc mà không cần phải thu phóng hoặc cuộn quá mức. Trang web thân thiện với thiết bị di động sẽ nâng cao trải nghiệm người dùng bằng cách đảm bảo khách truy cập có thể truy cập thông tin một cách dễ dàng, mang lại sự hài lòng cao hơn và mức độ tương tác kéo dài.
+
+### Tỷ lệ chuyển đổi cao hơn
+
+Các trang web thân thiện với thiết bị di động có nhiều khả năng chuyển đổi khách truy cập thành khách hàng hơn hoặc đạt được các hành động mong muốn khác. Cho dù thực hiện mua hàng, đăng ký nhận bản tin hay điền vào biểu mẫu liên hệ, thiết kế đáp ứng đều giúp người dùng thực hiện những hành động này trên thiết bị di động của họ một cách thuận tiện. Ngược lại, điều này có thể dẫn đến tỷ lệ chuyển đổi cao hơn và kết quả kinh doanh được cải thiện.
+
+### Cải thiện khả năng tương thích với thiết bị di động
+
+Thiết kế web đáp ứng đảm bảo khả năng tương thích trên tất cả các thiết bị di động và kích thước màn hình, loại bỏ nhu cầu tạo phiên bản di động riêng cho trang web của bạn. RWD điều chỉnh thiết kế hiện có để phù hợp với người dùng di động. Cách tiếp cận này tiết kiệm thời gian và tài nguyên trong khi cung cấp trải nghiệm người dùng nhất quán.
 
 ## Kết luận
 
