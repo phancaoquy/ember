@@ -4,7 +4,7 @@ meta_title: ""
 description: "Nguồn tài liệu học tập cho ngành lập trình Web"
 date: 2024-07-29T05:00:00Z
 image: "/images/image-placeholder.png"
-categories: ["Role"]
+categories: ["Information"]
 author: "Nguyễn Thanh Trường"
 tags: ["Website"]
 draft: false

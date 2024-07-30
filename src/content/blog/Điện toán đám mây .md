@@ -4,7 +4,7 @@ meta_title: ""
 description: "Điện toán đám mây"
 date: 2024-07-29T05:00:00Z
 image: "/images/truonga1.png"
-categories: ["Website", "Cloud"]
+categories: ["Information"]
 author: "Nguyễn Thanh Trường"
 tags: ["Website", "Cloud"]
 draft: false

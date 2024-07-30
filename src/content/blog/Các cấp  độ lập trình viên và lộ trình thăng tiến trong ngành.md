@@ -4,7 +4,7 @@ meta_title: ""
 description: "Các cấp  độ lập trình viên và lộ trình thăng tiến trong ngành"
 date: 2024-07-29T05:00:00Z
 image: "/images/image-placeholder.png"
-categories: ["Role"]
+categories: ["Information"]
 author: "Nguyễn Thanh Trường"
 tags: ["Website"]
 draft: false

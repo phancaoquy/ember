@@ -4,7 +4,7 @@ meta_title: ""
 description: "Mosaic  - Trình duyệt giao diện đồ hoạ đầu tiên"
 date: 2024-07-26T05:00:00Z
 image: "/images/b1.png"
-categories: ["Technology", "Web"]
+categories: ["Technology", "Information"]
 author: "Phan Cao Quý"
 tags: ["technology", "Mosaic"]
 draft: false

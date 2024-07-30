@@ -4,7 +4,7 @@ meta_title: ""
 description: "Giới thiệu các lỗ hổng bảo mật phổ biến"
 date: 2024-07-29T05:00:00Z
 image: "/images/image-placeholder.png"
-categories: ["Website", "Cybersecurity"]
+categories: ["Information"]
 author: "Chung Chí Vinh"
 tags: ["Website", "Cybersecurity"]
 draft: false

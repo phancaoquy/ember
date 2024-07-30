@@ -4,7 +4,7 @@ meta_title: ""
 description: "Phân Biệt Front-end, Back-end và Full-stack &  Lựa Chọn Hướng Phát Triển Phù Hợp"
 date: 2024-07-29T05:00:00Z
 image: "/images/vinha1.jpg"
-categories: ["Website", "Role"]
+categories: ["Information"]
 author: "Chung Chí Vinh"
 tags: ["Website", "Front-end", "Back-end", "Fullstack"]
 draft: false
