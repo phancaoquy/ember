@@ -1,7 +1,7 @@
 ---
-title: "Hosting là gì Cần biết những gì về host"
+title: "Hosting là gì cần biết những gì về host"
 meta_title: ""
-description: "Hosting là gì Cần biết những gì về host"
+description: "Hosting là gì cần biết những gì về host"
 date: 2024-08-01T05:00:00Z
 image: "/images/haoa1.png"
 categories: ["Information"]

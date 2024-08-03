@@ -1,7 +1,7 @@
 ---
-title: "Cài đặt Laravel và bắt đầu với nó khá đơn giản nhờ vào các công cụ và tài liệu phong phú"
+title: "Cài Đặt Laravel: Hướng Dẫn Từng Bước Để Bắt Đầu"
 meta_title: ""
-description: "Cài đặt Laravel và bắt đầu với nó khá đơn giản nhờ vào các công cụ và tài liệu phong phú"
+description: "Cài Đặt Laravel: Hướng Dẫn Từng Bước Để Bắt Đầu"
 date: 2024-07-29T05:00:00Z
 image: "/images/image-placeholder.png"
 categories: ["Information"]
