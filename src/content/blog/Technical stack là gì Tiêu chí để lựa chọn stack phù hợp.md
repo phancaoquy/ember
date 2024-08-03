@@ -3,7 +3,7 @@ title: "Technical stack là gì tiêu chí để lựa chọn stack phù hợp"
 meta_title: ""
 description: "Technical stack là gì tiêu chí để lựa chọn stack phù hợp"
 date: 2024-07-28T05:00:00Z
-image: "/images/haoc1.jpeg"
+image: "/images/hinhc1.jpg"
 categories: ["Information"]
 author: "Thái Tường Hào"
 tags: ["Technical stack"]
@@ -11,8 +11,6 @@ draft: false
 ---
 
 ## Techstack là gì?
-
-![A mushroom-head robot](/images/haoc1.jpeg "Website đầu tiên")
 
 Techstack là tập hợp các công nghệ được sử dụng để phát triển một ứng dụng, bao gồm ngôn ngữ lập trình, khung, cơ sở dữ liệu, công cụ mặt trước và mặt sau cũng như API. Các lựa chọn với nhóm công nghệ của bạn có thể có những tác động đáng kể về sau, bao gồm các loại tích hợp bạn có thể xây dựng và các kỹ năng bạn sẽ cần thuê.
 

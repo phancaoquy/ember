@@ -28,7 +28,7 @@ Giờ đây, PHP là nền tảng thống trị được sử dụng thường x
 
 ## Hành trình phát triển của Wordpress
 
-![A mushroom-head robot](/images/d2.jpg "Website đầu tiên")
+![A mushroom-head robot](/images/d2.png "Website đầu tiên")
 
 Câu chuyện bắt đầu với b2/cafelog, một nền tảng blog phổ biến. Khi quá trình phát triển của nó ngừng lại, Matt Mullenweg và Mike Little, những người dùng thất vọng, đã quyết định tự mình giải quyết vấn đề. Vào tháng 5 năm 2003, họ đã phân nhánh mã và phát hành phiên bản đầu tiên của WordPress – phiên bản 0.70.
 

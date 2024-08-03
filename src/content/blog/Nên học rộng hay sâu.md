@@ -3,7 +3,7 @@ title: "Nên học rộng hay sâu"
 meta_title: ""
 description: "Nên học rộng hay sâu"
 date: 2024-07-28T05:00:00Z
-image: "/images/haod1.png"
+image: "/images/image-placeholder.png"
 categories: ["Information"]
 author: "Thái Tường Hào"
 tags: ["Learning"]
@@ -11,8 +11,6 @@ draft: false
 ---
 
 # Học nhiều ngôn ngữ và công nghệ hay tập trung vào một nhóm ngôn ngữ, công nghệ nhất định?
-
-![A mushroom-head robot](/images/haoa2.png)
 
 Có thể nói, nên học một hay học nhiều ngôn ngữ lập trình, khi nào cần học một ngôn ngữ mới là điều mà rất nhiều học viên IT, người theo ngành lập trình quan tâm.
 Với các bạn sinh viên, ở giai đoạn đầu, bạn sẽ không biết mình giỏi cái gì, yếu cái gì, cần tập trung vào thứ gì. Vậy thì cứ học rộng trước đi đã. Khi đã có chút kinh nghiệm với nhiều ngôn ngữ / công nghệ hơn, bạn sẽ dễ lựa chọn hướng phát triển cho bản thân hơn.
