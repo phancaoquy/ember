@@ -52,4 +52,12 @@ Thay vì chỉ đọc quảng cáo trực tuyến, bạn có thể chia sẻ th�
       enable: enable
       label: "Đọc thêm"
       link: "https://ember-blush-two.vercel.app/blog/2007-iphone-được-phát-hành-và-sự-nổi-lên-của-thiết-bị-di-động-thay-đổi-cách-chúng-ta-sử-dụng-web"
+
+  - title: "2010-Hiện tại - Sự nổi lển của Single-Page Applications (SPAs) đã thay đổi trải nghiệm Web như thế nào?"
+    image: "/images/truonga2.png"
+    content: "Single Page Application (thường viết tắt là SPA) là một kiểu lập trình Web, có thể là Web App hay cũng có thể là một Website với khả năng mang lại những trải nghiệm mượt mà, tuyệt vời nhất cho người dùng như khi họ đang thao tác trên Mobile App."
+    button:
+      enable: enable
+      label: "Đọc thêm"
+      link: "https://ember-blush-two.vercel.app/blog/single-page-application-l%C3%A0-g%C3%AC"
 ---
