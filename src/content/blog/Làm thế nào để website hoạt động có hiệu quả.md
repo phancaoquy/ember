@@ -2,8 +2,8 @@
 title: "Làm thế nào để website hoạt động có hiệu quả?"
 meta_title: ""
 description: "Làm thế nào để website hoạt động có hiệu quả"
-date: 2024-07-30T05:00:00Z
-image: "/images/image-placeholder.png"
+date: 2024-07-31T05:00:00Z
+image: "/images/haod1.jpg"
 categories: ["Information"]
 author: "Thái Tường Hào"
 tags: ["PHP"]

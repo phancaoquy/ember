@@ -2,8 +2,8 @@
 title: "Triển khai các biện pháp bảo mật tiêu chuẩn như authentication"
 meta_title: ""
 description: "Triển khai các biện pháp bảo mật tiêu chuẩn như authentication"
-date: 2024-07-27T05:00:00Z
-image: "/images/image-placeholder.png"
+date: 2024-07-31T05:00:00Z
+image: "/images/vinhd1.png"
 categories: ["Website"]
 author: "Chung Chí Vinh"
 tags: ["Website", "Authentication"]

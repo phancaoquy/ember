@@ -2,8 +2,8 @@
 title: "Giới thiệu về API và Kiến trúc REST"
 meta_title: ""
 description: "Giới thiệu về API và Kiến trúc REST"
-date: 2024-07-29T05:00:00Z
-image: "/images/image-placeholder.png"
+date: 2024-07-31T05:00:00Z
+image: "/images/vinhb1.jpg"
 categories: ["Website", "API"]
 author: "Chung Chí Vinh"
 tags: ["Website", "REST API"]

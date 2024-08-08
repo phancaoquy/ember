@@ -2,8 +2,8 @@
 title: "Giới thiệu các lỗ hổng bảo mật phổ biến"
 meta_title: ""
 description: "Giới thiệu các lỗ hổng bảo mật phổ biến"
-date: 2024-07-29T05:00:00Z
-image: "/images/image-placeholder.png"
+date: 2024-07-31T05:00:00Z
+image: "/images/vinhat.jpg"
 categories: ["Information"]
 author: "Chung Chí Vinh"
 tags: ["Website", "Cybersecurity"]

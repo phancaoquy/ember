@@ -2,8 +2,8 @@
 title: "Hướng dẫn cách phòng chống và khắc phục các lỗ hổng này như sử dụng token, sanitize input, prepared statements"
 meta_title: ""
 description: "Hướng dẫn cách phòng chống và khắc phục các lỗ hổng này như sử dụng token, sanitize input, prepared statements"
-date: 2024-07-29T05:00:00Z
-image: "/images/image-placeholder.png"
+date: 2024-07-31T05:00:00Z
+image: "/images/vinhc1.png"
 categories: ["Website", "API"]
 author: "Chung Chí Vinh"
 tags: ["Website", "REST API"]
