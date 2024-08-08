@@ -2,7 +2,7 @@
 title: "Tạo một ứng dụng CRUD đơn giản với Laravel là cách tuyệt vời để làm quen với framework này"
 meta_title: ""
 description: "Tạo một ứng dụng CRUD đơn giản với Laravel là cách tuyệt vời để làm quen với framework này"
-date: 2024-07-30T05:00:00Z
+date: 2024-07-29T05:00:00Z
 image: "/images/image-placeholder.png"
 categories: ["Information"]
 author: "Lê Huỳnh Trung"
