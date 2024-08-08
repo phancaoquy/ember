@@ -3,7 +3,7 @@ title: "Cài Đặt Laravel: Hướng Dẫn Từng Bước Để Bắt Đầu"
 meta_title: ""
 description: "Cài Đặt Laravel: Hướng Dẫn Từng Bước Để Bắt Đầu"
 date: 2024-07-29T05:00:00Z
-image: "/images/image-placeholder.png"
+image: "/images/trunglaravelinstall.jpg"
 categories: ["Information"]
 author: "Lê Huỳnh Trung"
 tags: ["Responsive", "Design"]

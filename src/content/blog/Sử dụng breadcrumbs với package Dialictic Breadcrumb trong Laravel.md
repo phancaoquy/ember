@@ -1,9 +1,9 @@
 ---
-title: "Sử dụng breadcrumbs với package Dialictic/Breadcrumb trong Laravel"
+title: "Sử dụng breadcrumbs với package Dialectic/Breadcrumb trong Laravel"
 meta_title: ""
 description: "Sử dụng breadcrumbs với package Dialictic/Breadcrumb trong Laravel"
 date: 2024-07-29T05:00:00Z
-image: "/images/image-placeholder.png"
+image: "/images/truongdb.jpg"
 categories: ["Laravel"]
 author: "Nguyễn Thanh Trường"
 tags: ["Breadcrumb"]

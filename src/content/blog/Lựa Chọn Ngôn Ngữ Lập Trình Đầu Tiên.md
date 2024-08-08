@@ -3,7 +3,7 @@ title: "Lựa Chọn Ngôn Ngữ Lập Trình Đầu Tiên"
 meta_title: ""
 description: "Lựa Chọn Ngôn Ngữ Lập Trình Đầu Tiên.md"
 date: 2024-07-29T05:00:00Z
-image: "/images/image-placeholder.png"
+image: "/images/vinhfpl.jpg"
 categories: ["Website", "API"]
 author: "Chung Chí Vinh"
 tags: ["Website", "REST API"]

@@ -3,7 +3,7 @@ title: "Tại sao laravel lại là một framework PHP tuyệt vời cho ngư�
 meta_title: ""
 description: "Tại sao laravel lại là một framework PHP tuyệt vời cho người mới"
 date: 2024-07-29T05:00:00Z
-image: "/images/image-placeholder.png"
+image: "/images/trungphplaravelfram.jpg"
 categories: ["Information"]
 author: "Lê Huỳnh Trung"
 tags: ["Laravel"]

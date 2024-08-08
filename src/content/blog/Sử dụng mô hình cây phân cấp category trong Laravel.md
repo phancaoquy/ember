@@ -3,7 +3,7 @@ title: "Sử dụng mô hình cây phân cấp category trong Laravel"
 meta_title: ""
 description: "Sử dụng mô hình cây phân cấp category trong Laravel"
 date: 2024-07-30T05:00:00Z
-image: "/images/image-placeholder.png"
+image: "/images/truongcagtree.png"
 categories: ["Laravel"]
 author: "Nguyễn Thanh Trường"
 tags: ["Nested category"]

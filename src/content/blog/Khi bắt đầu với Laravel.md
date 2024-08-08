@@ -3,7 +3,7 @@ title: "Khi bắt đầu với Laravel"
 meta_title: ""
 description: "Khi bắt đầu với Laravel"
 date: 2024-07-30T05:00:00Z
-image: "/images/image-placeholder.png"
+image: "/images/laravellht.png"
 categories: ["Information"]
 author: "Lê Huỳnh Trung"
 tags: ["Laravel"]

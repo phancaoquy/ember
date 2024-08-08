@@ -3,7 +3,7 @@ title: "Thiết Kế Hướng Ưu Tiên Thiết Bị Di Động - Khi Trình Duy
 meta_title: ""
 description: "Thiết Kế Hướng Ưu Tiên Thiết Bị Di Động - Khi Trình Duyệt Trên Thiết Bị Di Động Vượt Qua Máy Tính"
 date: 2024-07-27T05:00:00Z
-image: "/images/image-placeholder.png"
+image: "/images/trung-web-design.jpg"
 categories: ["Website", "Design"]
 author: "Lê Huỳnh Trung"
 tags: ["Website", "Mobile Device"]

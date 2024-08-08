@@ -3,7 +3,7 @@ title: "Authencation với package Laravel Sanctum API"
 meta_title: ""
 description: "Authencation với package Laravel Sanctum API"
 date: 2024-07-29T05:00:00Z
-image: "/images/image-placeholder.png"
+image: "/images/truongsancrum.jpg"
 categories: ["Laravel"]
 author: "Nguyễn Thanh Trường"
 tags: ["Authencation"]

@@ -3,7 +3,7 @@ title: "Nên học rộng hay sâu"
 meta_title: ""
 description: "Nên học rộng hay sâu"
 date: 2024-07-28T05:00:00Z
-image: "/images/image-placeholder.png"
+image: "/images/hao-rong-hay-sau.png"
 categories: ["Information"]
 author: "Thái Tường Hào"
 tags: ["Learning"]

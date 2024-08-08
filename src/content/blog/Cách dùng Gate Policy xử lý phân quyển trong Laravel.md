@@ -3,7 +3,7 @@ title: "Cách dùng Gate Policy xử lý phân quyển trong Laravel"
 meta_title: ""
 description: "Cách dùng Gate Policy xử lý phân quyển trong Laravel"
 date: 2024-07-30T05:00:00Z
-image: "/images/image-placeholder.png"
+image: "/images/truonggp.jpg"
 categories: ["Laravel"]
 author: "Nguyễn Thanh Trường"
 tags: ["Gate Policy"]
