@@ -29,8 +29,7 @@ features:
 
   - title: "1998-2003 - Sự nổi lên của PHP và phổ biến của Wordpress"
     image: "/images/d1.jpg"
-    content: "
-PHP được hình thành vào mùa thu năm 1994 bởi Rasmus Lerdorf. Các phiên bản đầu tiên chưa được phát hành đã được sử dụng trên trang chủ của anh ấy để theo dõi xem ai đang xem hồ sơ cá nhân của anh ấy. Phiên bản đầu tiên được người khác sử dụng đã có vào khoảng đầu năm 1995."
+    content: "PHP được hình thành vào mùa thu năm 1994 bởi Rasmus Lerdorf. Các phiên bản đầu tiên chưa được phát hành đã được sử dụng trên trang chủ của anh ấy để theo dõi xem ai đang xem hồ sơ cá nhân của anh ấy. Phiên bản đầu tiên được người khác sử dụng đã có vào khoảng đầu năm 1995."
     button:
       enable: enable
       label: "Đọc thêm"
@@ -38,8 +37,7 @@ PHP được hình thành vào mùa thu năm 1994 bởi Rasmus Lerdorf. Các phi
 
   - title: "2005 - Web 2.0"
     image: "/images/e1.jpg"
-    content: "Web 2.0 là cấu trúc trong đó sự tham gia được khuyến khích và mời gọi. Thay vì chỉ vào trang web để đọc, bạn có thể bắt đầu tương tác thông qua các bình luận và phương thức chia sẻ.
-Thay vì chỉ đọc quảng cáo trực tuyến, bạn có thể chia sẻ thông tin này với người khác và thậm chí bạn có thể tạo quảng cáo của riêng mình thông qua các dịch vụ chuyên biệt."
+    content: "Web 2.0 là cấu trúc trong đó sự tham gia được khuyến khích và mời gọi. Thay vì chỉ vào trang web để đọc, bạn có thể bắt đầu tương tác thông qua các bình luận và phương thức chia sẻ.Thay vì chỉ đọc quảng cáo trực tuyến, bạn có thể chia sẻ thông tin này với người khác và thậm chí bạn có thể tạo quảng cáo của riêng mình thông qua các dịch vụ chuyên biệt."
     button:
       enable: enable
       label: "Đọc thêm"

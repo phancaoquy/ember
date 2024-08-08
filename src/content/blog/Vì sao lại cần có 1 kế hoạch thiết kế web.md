@@ -2,7 +2,7 @@
 title: "Vì sao lại cần có 1 kế hoạch thiết kế web"
 meta_title: ""
 description: "Vì sao lại cần có 1 kế hoạch thiết kế web"
-date: 2024-08-01T05:00:00Z
+date: 2024-07-30T05:00:00Z
 image: "/images/haob1.jpg"
 categories: ["Information"]
 author: "Thái Tường Hào"
